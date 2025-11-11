@@ -74,11 +74,11 @@ Further i will use project management guidlines as below
 
 Priority Ranking:
 
-1. B - *Priority 1:*
-2. E - *Priority 2:*
-3. A - *Priority 3:*
-4. D - *Priority 4:*
-5. C - *Priority 5:*
+*Priority 1:*B 
+*Priority 2:*E 
+*Priority 3:* A 
+*Priority 4:* D 
+*Priority 5:* C 
 
 Justification for #1 (Highest):
 The urgent-flagged email from the Head of Department requires immediate attention and response, as it's from a senior leader and has significant impact on the department's priorities.
