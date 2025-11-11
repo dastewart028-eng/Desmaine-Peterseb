@@ -27,9 +27,17 @@ Please manage your time carefully. Recommended times are provided for each secti
 **Your Task:** Outline the high-level project plan you would create to manage this process.
 
 In your answer, cover the following:
-
+ Steps: Initiate the project , check if all conceptual design approvals has been followed through for stage gate, , detailed design final approvals, following through to exceution and close out and completetion and do a benefit review.
 * **Key Steps:** What are the 5-7 most critical steps you would take, from initiation to completion?
-*7 Steps: Initiate the project , check if all conceptual design approvals has been followed through for stage gate, , detailed design final approvals, following through to exceution and close out and completetion and do a benefit review.
+* My understanding is based on the CoCT's Supply Chain Management Policy, which is founded on the principles of fairness, equity, transparency, competitiveness, and cost-effectiveness as mandated by the MFMA.
+* Step 1: Demand Management & SCM Plan: The process begins even before advertisement, with proper demand planning and inclusion in the approved SCM Plan, ensuring budget availability as per the MFMA's budget control requirements.
+* Step 2:Compilation of Tender Documents: This includes clear, unambiguous specifications and the specific evaluation criteria (e.g., 80/20 or 90/10 price/point system) that will be used, published upfront to ensure transparency.
+*Step 3:Advertisement & Publication: The bid is advertised in the Government Tender Bulletin and on the City’s website for a minimum period, providing equal opportunity for all potential bidders.
+*Step 4:Bid Opening Committee: Upon closing, bids are publicly opened by a Bid Opening Committee, which records the names of bidders and prices, ensuring the first layer of transparency.
+*Step 5:Evaluation Process: A Bid Evaluation Committee (BEC), constituted according to delegated authority, evaluates bids strictly against the pre-published criteria. This is a critical control point to prevent deviations and ensure fairness.
+*Step 6:Adjudication & Award: The Bid Adjudication Committee (BAC) reviews the BEC's recommendations to ensure due process was followed. The award is then made to the bidder who scored the highest in terms of the pre-stated criteria. The MFMA requires that any deviations, especially regarding contracts above a specific value, must be reported and justified.
+*Step 7:Council Reporting: For contracts above a specific value threshold, the award must be reported to the Mayoral Committee and Council, as per MFMA regulations, ensuring ultimate oversight and accountability."
+Further i will use project management guidlines as below 
   Plan: Define the scope of this project and the need has been identified , together with the market research, ensure that the budget is secured 
   Organise: - Do a procurement plan defining critical milestones , together with ensuring the demand plan number has been created , and the project is active on the PPM system , ensure all role players is on board, ensure that the tenders and contracts can meet the deadline of an 8 week turn around for Bid specification committee and advertising can take place - in order for BEC to be scheduled for evaluation and award, clarification of various issues , together supplier selection with final review and award of the tender , 
   Lead: draft an MOA , create a SAP agreement number , do a req to generate the PO ,  When the conract has been awarded anf there after manage the contract via CRM's and PPM 
@@ -59,11 +67,6 @@ In your answer, cover the following:
 
 **Your Ranking:**
 
-**Priority 1:**
-**Priority 2:**
-**Priority 3:**
-**Priority 4:**
-**Priority 5:**
 
 **Justification for #1 (Highest):**
 
@@ -71,14 +74,14 @@ In your answer, cover the following:
 
 Priority Ranking:
 
-1. B
-2. E
-3. A
-4. D
-5. C
+1. B - *Priority 1:*
+2. E - *Priority 2:*
+3. A - *Priority 3:*
+4. D - *Priority 4:*
+5. C - *Priority 5:*
 
 Justification for #1 (Highest):
-The urgent-flagged email from the Head of Department requires immediate attention and response, as it's from a senior leader and likely has significant impact on the department's priorities.
+The urgent-flagged email from the Head of Department requires immediate attention and response, as it's from a senior leader and has significant impact on the department's priorities.
 
 Justification for #5 (Lowest):
 The request to schedule a Change Management Workshop has a relatively long timeline (two weeks) and can be planned around other priorities, making it the lowest priority among the given tasks.
@@ -90,7 +93,7 @@ Step-by-Step Reasoning:
 - Confirm arrangements for an upcoming event (A)
 - Plan for a future contract renewal (D)
 - Schedule a workshop with a relatively long timeline (C)
-
+would use my Outlook Calendar to visually block time for each task. I would use a OneNote or Planner task list linked to the PPM system to track the progress of the tender and training, ensuring nothing is dropped. Communication is key; I would inform the Director when the report is sent and the project manager when the meeting is set.
 ---
 
 ### Part 3: Practical Skill - Technical Communication (10 Minutes)
