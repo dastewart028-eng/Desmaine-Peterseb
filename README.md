@@ -1,4 +1,4 @@
-# Desmaine-Petersen
+# Desmaine-Petersen - DPC 3
 Assessment 
 # City of Cape Town Data Analytics Hub Challenge
 
@@ -30,10 +30,10 @@ In your answer, cover the following:
  Steps: Initiate the project , check if all conceptual design approvals has been followed through for stage gate, , detailed design final approvals, following through to exceution and close out and completetion and do a benefit review.
 * **Key Steps:** What are the 5-7 most critical steps you would take, from initiation to completion?
 * My understanding is based on the CoCT's Supply Chain Management Policy, which is founded on the principles of fairness, equity, transparency, competitiveness, and cost-effectiveness as mandated by the MFMA.
-* Step 1: Demand Management & SCM Plan: The process begins even before advertisement, with proper demand planning and inclusion in the approved SCM Plan, ensuring budget availability as per the MFMA's budget control requirements.
-* Step 2:Compilation of Tender Documents: This includes clear, unambiguous specifications and the specific evaluation criteria (e.g., 80/20 or 90/10 price/point system) that will be used, published upfront to ensure transparency.
-*Step 3:Advertisement & Publication: The bid is advertised in the Government Tender Bulletin and on the City’s website for a minimum period, providing equal opportunity for all potential bidders.
-*Step 4:Bid Opening Committee: Upon closing, bids are publicly opened by a Bid Opening Committee, which records the names of bidders and prices, ensuring the first layer of transparency.
+*Step 1:*  Demand Management & SCM Plan: The process begins even before advertisement, with proper demand planning and inclusion in the approved SCM Plan, ensuring budget availability as per the MFMA's budget control requirements.
+*Step 2:* Compilation of Tender Documents: This includes clear, unambiguous specifications and the specific evaluation criteria (e.g., 80/20 or 90/10 price/point system) that will be used, published upfront to ensure transparency.
+*Step 3:* Advertisement & Publication: The bid is advertised in the Government Tender Bulletin and on the City’s website for a minimum period, providing equal opportunity for all potential bidders.
+*Step 4:* Bid Opening Committee: Upon closing, bids are publicly opened by a Bid Opening Committee, which records the names of bidders and prices, ensuring the first layer of transparency.
 *Step 5:Evaluation Process: A Bid Evaluation Committee (BEC), constituted according to delegated authority, evaluates bids strictly against the pre-published criteria. This is a critical control point to prevent deviations and ensure fairness.
 *Step 6:Adjudication & Award: The Bid Adjudication Committee (BAC) reviews the BEC's recommendations to ensure due process was followed. The award is then made to the bidder who scored the highest in terms of the pre-stated criteria. The MFMA requires that any deviations, especially regarding contracts above a specific value, must be reported and justified.
 *Step 7:Council Reporting: For contracts above a specific value threshold, the award must be reported to the Mayoral Committee and Council, as per MFMA regulations, ensuring ultimate oversight and accountability."
@@ -44,7 +44,7 @@ Further i will use project management guidlines as below
   Control: Monitor the contract in the excecuition phase , through monthly performance management 
    
 * **Stakeholders:** Who are the key departments (e.g., Legal, SCM, etc.) you would need to liaise with, and why?
-* Legal - To draft the MOA between the supplier and the city of cape town , SCM to following through with the PO , do the agreement number , generate the requistion , align the budget 
+* Legal to draft the Memorandum Of Agreement, to check if the contract meets all legal requirments that , aligned with the city of cape town and the supplier and the city of cape town , SCM to following through with the PO , do the agreement number , generate the requistion , align the budget* 
 * **Immediate Risks:** What are the top 3 risks you would immediately flag to the Manager of the Data Analytics Hub?
 1.	Stakeholder Analysis using PPM & CRMS: First, I would use the Project Portfolio Management (PPM) system and Customer Relationship Management Systems (CRMS) to identify all project stakeholders and their roles. This ensures no key department or individual is missed.
 2.	MFMA-Compliant Justification: To build buy-in, I would help articulate how the new data tool will lead to better financial management in SAP (e.g., more accurate capital budget allocation) or optimize operations, similar to how the SCOOT system improved traffic flow. This links the project directly to the SDBIP targets.
@@ -109,22 +109,22 @@ would use my Outlook Calendar to visually block time for each task. I would use 
 * **Identify Missing Information:** List 3-5 key pieces of information you would need to get from the technical team before you would be comfortable sending this communication.
 User-Friendly Email Communication:
 
-Subject: Important Update: New Dashboard Access Starting Tonight
+*Subject: Important Update: New Dashboard Access Starting Tonight
 
-Dear Team,
+*Dear Team,*
 
 As part of our ongoing efforts to improve our internal tools, the data engineering team will be updating the way you access our key dashboard tonight at 23:00.
 
-What you need to do:
+**What you need to do:**
 
-- Clear your browser cache (Ctrl+F5) after the update
-- Re-authenticate using your usual login credentials
-- If you encounter any issues, refer to our wiki-page DATA-291 for more information
+*Clear* your browser cache **(Ctrl+F5)** after the update
+*Re-authenticate* using your usual login credentials
+*If you encounter any issues, refer to our wiki-page **DATA-291** for more information
 
-We apologize for any inconvenience and appreciate your cooperation.
+**We apologize for any inconvenience and appreciate your cooperation.**
 
-Best regards,
-Desmaine Petersen
+**Best regards,**
+*Desmaine Petersen*
 
 Missing Information:
 
@@ -149,32 +149,32 @@ Timing and details of any training or support sessions for users who may need 
 
 * AI Horizons Cape Town Conference Planning: Initial 5-Step Action Plan
 
-Step 1: Define Event Concept and Objectives
-Confirm event goals and objectives with the Manager of the Data Analytic Hub
-Define the event theme, scope, and target audience
-Identify key performance indicators (KPIs) for the event's success
+*Step 1: Define Event Concept and Objectives
+*Confirm event goals and objectives with the Manager of the Data Analytic Hub
+*Define the event theme, scope, and target audience
+*Identify key performance indicators (KPIs) for the event's success
 
-Step 2: Establish Event Timeline and Milestones
-Create a high-level event timeline (12-18 months)
-Identify critical milestones and deadlines (e.g., speaker confirmations, registration launch)
-Develop a preliminary event schedule (e.g., keynote speakers, panel discussions, workshops)
+*Step 2: Establish Event Timeline and Milestones
+*Create a high-level event timeline (12-18 months)
+*Identify critical milestones and deadlines (e.g., speaker confirmations, registration launch)
+*Develop a preliminary event schedule (e.g., keynote speakers, panel discussions, workshops)
 
-Step 3: Identify and Secure Venue Options
-Research potential venues in Cape Town that can accommodate 500 delegates
-Evaluate venues based on factors like location, capacity, amenities, and technology infrastructure
-Shortlist 2-3 venues for further discussion and site visits
+*Step 3: Identify and Secure Venue Options
+*Research potential venues in Cape Town that can accommodate 500 delegates
+*Evaluate venues based on factors like location, capacity, amenities, and technology infrastructure
+*Shortlist 2-3 venues for further discussion and site visits
 
-Step 4: Develop Speaker Strategy and Outreach Plan
-Identify world-renowned AI speakers and thought leaders
-Develop a speaker outreach plan, including invitation templates and benefits for speakers
-Create a speaker management process (e.g., abstract submission, speaker registration)
+*Step 4: Develop Speaker Strategy and Outreach Plan
+*Identify world-renowned AI speakers and thought leaders
+*Develop a speaker outreach plan, including invitation templates and benefits for speakers
+*Create a speaker management process (e.g., abstract submission, speaker registration)
 
-Step 5: Establish Budget and Financial Plan
-Develop a preliminary event budget, including estimated revenue and expenses
-Identify potential sponsors and partners for the event
-Determine registration fees and develop a pricing strategy
+*Step 5: Establish Budget and Financial Plan
+*Develop a preliminary event budget, including estimated revenue and expenses
+*Identify potential sponsors and partners for the event
+*Determine registration fees and develop a pricing strategy
 
-These initial steps will help lay the foundation for a successful and well-planned conference.
-Contact person or support channel for issues or questions
-Any specific browser or system requirements for the new authentication process
-Timing and details of any training or support sessions for users who may need assistance
+*These initial steps will help lay the foundation for a successful and well-planned conference.
+*Contact person or support channel for issues or questions
+*Any specific browser or system requirements for the new authentication process
+*Timing and details of any training or support sessions for users who may need assistance
